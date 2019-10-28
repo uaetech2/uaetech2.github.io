@@ -1,0 +1,31 @@
+<package>
+	<id>com.utech.allvpnhack</id>
+	<name>AllVpnHack</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>ws.hbang.common</package>
+		<package>com.rpetrich.rocketbootstrap</package>
+	</dependencies>
+	<shortDescription>All Vpn Open Premium</shortDescription>
+	<descriptionlist>
+		<description>Supports iOS 10.0 - 12.4</description>
+		<description>Open all features for Vpn apps</description>
+		<description>Open features for VPN Aegis, Betternet, GetVPN, FirstVPN, Star VPN and Hexatech,Solo VPN , Master VPN. More is coming soon!</description>
+		<description>All devices are supported including A12</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Added Solo VPN and Master VPN  </change>
+		<change>Supported A12 devices</change>
+	</changelog>
+	<links></links>
+</package>

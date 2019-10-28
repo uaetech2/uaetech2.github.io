@@ -1,0 +1,125 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/AllVPNHack.png",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+          "class": "DepictionHeaderView",
+          "title": "Description",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Open all features for Vpn apps"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Open features for VPN Aegis, Betternet, GetVPN, FirstVPN, Star VPN, Solo VPN , Master VPN and Hexatech. More is coming soon!"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "All devices are Supported including A12!"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Information",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Last Updated",
+					"text": "October 28, 2019",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "License",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Compatibility",
+					"text": "iOS 10.0 - 12.4",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "uaetech2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Maintainer",
+					"text": "uaetech2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Contact Developer",
+					"action": "mailto:o2uae.18.1990@gmail.com",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Contact Maintainer",
+					"action": "mailto:o2uae.18.1990@gmail.com",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Donate Paypal",
+					"action": "https://www.paypal.me/uaetech",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added Solo VPN and Master VPN",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 Supported A12 devices",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
