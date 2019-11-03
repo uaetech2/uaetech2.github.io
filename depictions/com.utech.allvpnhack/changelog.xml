@@ -1,7 +1,7 @@
 <changelog>
 	<changes>
-		<version>1.2-2+debug</version>
-		<change>Added Solo VPN and Master VPN</change>
+		<version>1.2.3-1+debug</version>
+		<change>Added Solo VPN and Master VPN and fix preference loader with A12 devices</change>
 		<change>Supported A12 devices</change>
 	</changes>
 	<changes>
