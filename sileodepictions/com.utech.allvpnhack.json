@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/AllVPNHack.png",
+	"headerImage": "https://i.imgur.com/cNJAkov.png",
 	"tintColor": "#ffae8e",
 	"tabs": [
 		{
@@ -33,12 +33,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.2",
+					"text": "1.2.3-1+debug",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Last Updated",
-					"text": "October 28, 2019",
+					"text": "Nov 03 2019",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -91,29 +91,13 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.2",
+					"title": "1.2.3-1+debug",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Added Solo VPN and Master VPN",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "\t\n\u2022 Supported A12 devices",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.2",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Initial release",
+					"markdown": "Supported A12 Devices and fix Preference loader",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}
