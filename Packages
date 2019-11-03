@@ -8,12 +8,11 @@ Description: All Vpn Open Premium
 Maintainer: UaeTech2
 Author: UaeTech2
 Section: Tweaks
-Version: 1.2-2+debug
-Installed-Size: 464
-Size: 466430
-MD5sum: 31fb437aa54faf19c49ca9adc3fcae39
-SHA256: 679bd23ef7977b9dba29f573e23f4fa7f5a9b9cb4e497c588c72a176e34d99a1
-Filename: ./debs/com.utech.allvpnhack_1.2-2+debug_iphoneos-arm.deb
+Version: 1.2.3-1+debug
+Installed-Size: 460
+Size: 460288
+MD5sum: ae28e1c006d8c7b656a300aeabaab015
+SHA256: 5d77330b58a9d76873aa750476c5e41e099017b355d77b13ba0b2d4780d8bdac
+Filename: ./debs/com.utech.allvpnhack_1.2.3-1+debug_iphoneos-arm.deb
 Depiction: https://uaetech2.github.io/depictions/?p=com.utech.allvpnhack
 SileoDepiction: https://uaetech2.github.io/sileodepictions/com.utech.allvpnhack.json
-
