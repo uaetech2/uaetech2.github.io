@@ -1,0 +1,19 @@
+Package: com.utech.allvpnhack
+Conflicts: com.utech.allvbnhack
+Replaces: com.utech.allvbnhack
+Name: AllVpnHack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: All Vpn Open Premium
+Maintainer: UaeTech2
+Author: UaeTech2
+Section: Tweaks
+Version: 1.2-2+debug
+Installed-Size: 464
+Size: 466430
+MD5sum: 31fb437aa54faf19c49ca9adc3fcae39
+SHA256: 679bd23ef7977b9dba29f573e23f4fa7f5a9b9cb4e497c588c72a176e34d99a1
+Filename: ./debs/com.utech.allvpnhack_1.2-2+debug_iphoneos-arm.deb
+Depiction: https://uaetech2.github.io/depictions/?p=com.utech.allvpnhack
+SileoDepiction: https://uaetech2.github.io/sileodepictions/com.utech.allvpnhack.json
+
